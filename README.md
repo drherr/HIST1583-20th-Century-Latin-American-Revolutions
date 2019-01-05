@@ -12,3 +12,9 @@ Once you are ready to contribute begin by navigating to our classroom [Wiki](htt
 8. Click on “star” (also in upper right hand corner) so our class repository appears on your main GitHub dashboard/newsfeed
 9. Accept invitation from me to collaborate  
 
+***  
+  
+### Student Handles 
+*Please add your name, Pitt email, and GitHub handle below*  
+**Example:** Dr. Pilar Herr, pmh3@pitt.edu, @drherr
+
