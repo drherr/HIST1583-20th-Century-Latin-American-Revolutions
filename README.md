@@ -11,10 +11,13 @@ Once you are ready to contribute begin by navigating to our classroom [Wiki](htt
 7. Click on “watch” (in upper right hand corner of class repository) in order for an email to be sent to you any time anyone updates something in our GitHub repository
 8. Click on “star” (also in upper right hand corner) so our class repository appears on your main GitHub dashboard/newsfeed
 9. Accept invitation from me to collaborate  
-
+  
+### Why use GitHub?  
+As an academic and professional in an increasingly digital world it is important to consider our online presence. For students and faculty alike engaging and traversing a variety of digital environments is a powerful professional skill. The open access nature of GitHub and the powerful version-control of Git has placed GitHub among the most used as well as most useful tools of today's tech. developers. By asking our students to create GitHub profiles and contribute to content on this platform we are placing students in an environment where the opportunities for personal knowledge development are truly extensible. For this course we are committed to having students engage with the social/collaborative components of the interface with the hope that students will engage with other possible uses of GitHub amd Git outside of what falls under this course's requirements. If you are interested in learning more about Git check out [git-scm.com](https://git-scm.com/). I fyou are interested in learning more about GitHub check out [the GitHub guides](https://guides.github.com/).  
+  
 ***  
   
 ### Student Handles 
-*Please add your name, Pitt email, and GitHub handle below*  
-**Example:** Dr. Pilar Herr, pmh3@pitt.edu, @drherr
+*Please add your name, Pitt ID, and GitHub handle below*  
+**Example:** Dr. Pilar Herr, pmh3, @drherr
 
