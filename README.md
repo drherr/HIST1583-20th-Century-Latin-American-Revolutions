@@ -19,5 +19,8 @@ As an academic and professional in an increasingly digital world it is important
   
 ### Student Handles 
 *Please add your name, Pitt ID, and GitHub handle below*  
-**Example:** Dr. Pilar Herr, pmh3, @drherr
+**Example:** Dr. Pilar Herr, pmh3, @drherr  
+Megan Schmucker @rushin-spy  
+Jon Horanic @jonhoranic  
+Connor Chinoy @Chinoy Industries  
 
