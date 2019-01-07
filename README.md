@@ -22,5 +22,5 @@ As an academic and professional in an increasingly digital world it is important
 **Example:** Dr. Pilar Herr, pmh3, @drherr  
 Megan Schmucker @rushin-spy  
 Jon Horanic @jonhoranic  
-Connor Chinoy @Chinoy Industries  
+Connor Chinoy @ChinoyIndustries  
 
