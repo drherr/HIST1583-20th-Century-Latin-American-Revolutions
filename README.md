@@ -23,7 +23,6 @@ As an academic and professional in an increasingly digital world it is important
 Megan Schmucker @rushin-spy  
 Jon Horanic @jonhoranic  
 Connor Chinoy @ChinoyIndustries   
-Abigail Noll @alsoarushin-spy  
 Samantha Koury @samanthakoury  
 Andrew Barnhart @arb205  
 Jeremy McLaughlin @jpmcl23 .  
