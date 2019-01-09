@@ -34,8 +34,8 @@ Lucas Kaufman @Lkaufman09 .
 Chris Dutrow @chrisdutrow . 
   
 Charles Mensa @charlesmensa .  
-  Eric Ahrens @era46 . 
-Tyler D'Ascenzo, tyd3, @tylerdascenzo
+  Eric Ahrens @era46 .  
+  Tyler D'Ascenzo, tyd3, @tylerdascenzo
   
   
 
