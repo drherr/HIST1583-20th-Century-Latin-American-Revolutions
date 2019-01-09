@@ -26,9 +26,9 @@ Connor Chinoy @ChinoyIndustries
 Abigail Noll @alsoarushin-spy  
 Samantha Koury @samanthakoury  
 Andrew Barnhart @arb205  
-Jeremy McLaughlin @jpmcl23 
-Abigail Noll @alsoarushin-spy 
-Matt Nowakoski @mattnowakoski   
+Jeremy McLaughlin @jpmcl23 .  
+Abigail Noll @alsoarushin-spy .  
+Matt Nowakoski @mattnowakoski .    
 
 
 
