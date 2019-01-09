@@ -35,7 +35,8 @@ Chris Dutrow @chrisdutrow .
   
 Charles Mensa @charlesmensa .  
   Eric Ahrens @era46 .  
-  Tyler D'Ascenzo, tyd3, @tylerdascenzo
+  Tyler D'Ascenzo, tyd3, @tylerdascenzo  
+Connor Heath, cjh115, @cjh115
   
   
 
