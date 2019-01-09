@@ -28,7 +28,9 @@ Samantha Koury @samanthakoury
 Andrew Barnhart @arb205  
 Jeremy McLaughlin @jpmcl23 .  
 Abigail Noll @alsoarushin-spy .  
-Matt Nowakoski @mattnowakoski .    
+Matt Nowakoski @mattnowakoski . 
+Lucas Kaufman @Lkaufman09  
+
 
 
 
