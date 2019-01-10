@@ -20,6 +20,7 @@ As an academic and professional in an increasingly digital world it is important
 ### Student Handles 
 *Please add your name, and GitHub handle below*  
 **Example:** Dr. Pilar Herr, @drherr  
+Rebecca Parker, RJP43 - technical assistant  
 Megan Schmucker @rushin-spy  
 Jon Horanic @jonhoranic  
 Connor Chinoy @ChinoyIndustries   
