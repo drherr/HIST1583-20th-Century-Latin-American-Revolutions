@@ -36,7 +36,7 @@ Eric Ahrens @era46
 Tyler D'Ascenzo @tylerdascenzo  
 Connor Heath @cjh115  
 Kylie Decesere @Kylie-D  
-Paul Franolich @paf44 . 
+ 
 
   
   
