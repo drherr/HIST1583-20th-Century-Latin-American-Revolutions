@@ -36,9 +36,9 @@ Eric Ahrens @era46
 Tyler D'Ascenzo @tylerdascenzo  
 Connor Heath @cjh115  
 Kylie Decesere @Kylie-D  
-Anthony Lacunza @aj11x7 .
-  
-Sam Leonard @Ace-Trainer . 
+Anthony Lacunza @aj11x7    
+Sam Leonard @Ace-Trainer  
+
   
 
   
