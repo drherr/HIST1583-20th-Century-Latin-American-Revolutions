@@ -1,4 +1,4 @@
-# HIST0501 - MODERN LATIN AMERICA
+# HIST1583- 20TH CENTURY LATIN AMERICAN REVOLUTIONS
 Welcome to HIST-0501 History of Modern Latin America Survey.  
 Once you are ready to contribute begin by navigating to our classroom [Wiki](https://github.com/drherr/HIST0501-MODERNLATINAMERICA/wiki).  
 ## Instructions for Getting Started in GitHub  
